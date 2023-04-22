@@ -1,0 +1,16 @@
+# Rust binaries and build output
+target/
+Cargo.lock
+
+# Generated documentation
+doc/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Miscellaneous
+*.log
+*.toml.orig

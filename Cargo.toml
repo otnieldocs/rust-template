@@ -1,0 +1,8 @@
+[package]
+name = "sample-project"
+version = "0.0.1"
+authors = ["Your Name <youremail@example.com>"]
+edition = "2021"
+
+[dependencies]
+rand = "0.8.4"
